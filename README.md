@@ -12,4 +12,4 @@ If you fork or use these fonts, reference iA Writer clearly.
 
 This fork fixes known iA Writer's typeface issues such as [omitted "monospaced" proportion info](https://github.com/iaolo/iA-Fonts/issues/73), [Quattro's font incorrect weight info](https://github.com/iaolo/iA-Fonts/issues/78) and Windows Font Viewer's rendering issues.
 
-Fonts were imported, corrected and then generated using [FontForge](https://fontforge.org) `2023-01-01`. No glyphs were changed - only metadata.
+Fonts were imported, corrected and then generated using [FontForge](https://fontforge.org) `2023-01-01`. Only metadata was corrected with the exception of "iA Writer Mono S" typeface.
