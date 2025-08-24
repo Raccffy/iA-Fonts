@@ -7,3 +7,7 @@ In-depth explanation of iA Writer Mono, Duo, and Quattro is available iA Writer'
 This is a modification of [IBM's Plex® Mono typeface](https://github.com/IBM/type) which is available under [SIL Open Font License, Version 1.1](https://opensource.org/license/ofl-1-1).
 
 If you fork or use these fonts, reference iA Writer clearly.
+
+## Modification Info
+
+Changed proportion info from "Any" to "Monospaced" (`OS/2 --> Panose --> Proportion` in FontForge).
