@@ -7,3 +7,9 @@ In-depth explanation of iA Writer Mono, Duo, and Quattro is available iA Writer'
 This is a modification of [IBM's Plex® Mono typeface](https://github.com/IBM/type) which is available under [SIL Open Font License, Version 1.1](https://opensource.org/license/ofl-1-1).
 
 If you fork or use these fonts, reference iA Writer clearly.
+
+## Fork
+
+This fork fixes known iA Writer's typeface issues such as [omitted "monospaced" proportion info](https://github.com/iaolo/iA-Fonts/issues/73), [Quattro's font incorrect weight info](https://github.com/iaolo/iA-Fonts/issues/78) and Windows Font Viewer's rendering issues.
+
+Fonts were imported, corrected and then generated using [FontForge](https://fontforge.org) `2023-01-01`. No glyphs were changed - only metadata.
