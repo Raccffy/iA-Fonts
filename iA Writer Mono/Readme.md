@@ -10,4 +10,5 @@ If you fork or use these fonts, reference iA Writer clearly.
 
 ## Modification Info
 
-Changed proportion info from "Any" to "Monospaced" (`OS/2 --> Panose --> Proportion` in FontForge).
+- Changed proportion info from "Any" to "Monospaced" (`OS/2 --> Panose --> Proportion` in FontForge).
+- Changed glyph widths to 600.
